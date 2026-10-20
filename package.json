@@ -25,6 +25,10 @@
     "url": "https://github.com/hazrid93/pi-simplified-technical-english/issues"
   },
   "type": "module",
+  "peerDependencies": {
+    "@earendil-works/pi-ai": "^1.3.0",
+    "@earendil-works/pi-coding-agent": "^1.3.0"
+  },
   "files": [
     "pi-extension/",
     "skills/",
